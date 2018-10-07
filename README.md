@@ -5,6 +5,9 @@
 Live Server
 ===========
 
+Forked from https://github.com/tapio/live-server due to stale package and vulnerabilities. Vulnerabilities resolved, updates and further testing in progress.
+
+
 This is a little development server with live reload capability. Use it for hacking your HTML/JavaScript/CSS files, but not for deploying the final site.
 
 There are two reasons for using this:
